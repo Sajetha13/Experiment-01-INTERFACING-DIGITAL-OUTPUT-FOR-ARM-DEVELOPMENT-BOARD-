@@ -168,9 +168,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
  
  case 1 : led is on
+ 
  ![image](https://github.com/user-attachments/assets/176ce155-c79c-4a4b-8a87-592ef587053f)
 
  case 2 : led is off
+ 
  ![image](https://github.com/user-attachments/assets/1754a241-9287-4944-a180-b51ea4beb078)
 
  
